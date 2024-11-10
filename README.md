@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @spawner1145
 - 👀 I’m interested in doing abstract and stupid things
-- 🌱 I’m currently learning nlp(aigc)
+- 🌱 I’m currently learning nlp(aigc),game making
 - 💞️ I’m looking to collaborate on anime()
 - 📫 How to reach me spawner6@outlook.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: programming,producing music,drawing
 - Birth: 2006
 - Major in Pure Mathematics
 <!---
