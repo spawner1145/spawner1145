@@ -5,7 +5,8 @@
 - 📫 How to reach me spawner6@outlook.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- birth:2006
+- Birth: 2006
+- Major in Pure Mathematics
 <!---
 spawner1145/spawner1145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
