@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning nlp(aigc:now developing motion diffusion),game making
 - 💞️ I’m looking to collaborate on anime()
 - 📫 How to reach me spawner6@outlook.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: 1145141919810
 - ⚡ Fun fact: programming,producing music,drawing
 - Birth: 2006
 - Major in Pure Mathematics
