@@ -7,6 +7,7 @@
 - ⚡ Fun fact: programming,producing music,drawing
 - Birth: 2006
 - Major in Pure Mathematics
+- 我的精神状态很好口牙
 <!---
 spawner1145/spawner1145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
