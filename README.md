@@ -9,6 +9,7 @@
 - Major in Pure Mathematics
 - 我的精神状态很好口牙
 - 我的kaggle云端部署项目[spawnerqwq](https://www.kaggle.com/spawnerqwq/code)
+- 我的网易云音乐歌手页[spawner](https://music.163.com/#/artist?id=48497066)
 <!---
 spawner1145/spawner1145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
