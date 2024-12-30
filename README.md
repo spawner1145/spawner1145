@@ -8,7 +8,7 @@
 - Birth: 2006
 - Major in Pure Mathematics
 - 我的精神状态很好口牙
-- 我的kaggle云端部署项目[spawnerqwq](https://www.kaggle.com/spawnerqwq)
+- 我的kaggle云端部署项目[spawnerqwq](https://www.kaggle.com/spawnerqwq/code)
 <!---
 spawner1145/spawner1145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
