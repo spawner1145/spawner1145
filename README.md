@@ -11,6 +11,7 @@
 - 我的精神状态很好口牙
 - 我的kaggle云端部署项目[spawnerqwq](https://www.kaggle.com/spawnerqwq/code)
 - 我的网易云音乐歌手页[spawner](https://music.163.com/#/artist?id=48497066)
+- 我pixiv上发的画的一些画(手绘的)[spawner](https://www.pixiv.net/users/118254089)
 - 看什么看，有这点时间你不如去玩原神🤓👆
 <!---
 spawner1145/spawner1145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
