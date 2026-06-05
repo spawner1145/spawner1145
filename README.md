@@ -2,7 +2,7 @@
 - 👀 I’m interested in doing abstract and stupid things, AI & ML interests
 - 🌱 I’m currently learning unified models
 - 💞️ I’m looking to collaborate on anime()
-- 📫 How to reach me spawner6@outlook.com
+- 📫 How to reach me spawner6@outlook.com or 371062@whut.edu.cn
 - 😄 Pronouns: kami
 - ⚡ Fun fact: programming,producing music,drawing
 - Birth: 2006
